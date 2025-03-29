@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently advancing my knowledge in **Large Language Models and Generative AI**
 
-- 💬 Ask me about **Machine Learning, Natural Language Processing**
+- 💬 Ask me about **Machine Learning, Natural Language Processing, Deep Learning, Computer Vision**
 
 - 📫 How to reach me **shivamkhunger7643@gmail.com**
 
