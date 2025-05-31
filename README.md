@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmJiaHpyaTJzbmY3bm01ZTBhajQ5b2h3MWtqOWNlZ3p3OWk2Y2piYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/hTISMmThkCvYWE65v9/giphy.gif" width="300" height="250">
+  <img src="https://camo.githubusercontent.com/88adc7c88c9d3dba7479020846ed35d13410e3707c7f149e1c6140cc6beaef9a/68747470733a2f2f70687973696373677572756b756c2e66696c65732e776f726470726573732e636f6d2f323031392f30322f6368617261637465722d312e676966" width="300" height="250">
 </p>
 <h1 align="center">Hi 👋, I'm Shivam Khunger</h1>
 <h3 align="center">A Passionate Data Scientist</h3>
@@ -39,6 +39,15 @@
 - ☁️ **Cloud Integration** – Real-time monitoring using **ThingSpeak**
 
 ---
+### Some of the Projects
+
+- [Smart Food Monitoring: AI for Food Quality Prediction](https://github.com/ShivamKhunger/Smart-Food-Monitoring)
+- [Financial Sentiment Analysis using FinBERT](https://github.com/ShivamKhunger/Financial-Sentiment-Analysis-Finbert)
+- [Smart Washroom Occupancy and Cleaniness Monitoring System using ESP32 and ThingSpeak](https://github.com/ShivamKhunger/Smart-Washroom-Occupancy-Quality-Monitoring)
+- [ML based Disease Predicition system, deployed using streamlit](https://github.com/ShivamKhunger/Disease-Prediction)
+
+---
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShivamKhunger&show_icons=true&locale=en&layout=compact" alt="shivamkhunger" /></p>
 
