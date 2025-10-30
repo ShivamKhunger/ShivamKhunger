@@ -42,6 +42,7 @@
 ### Some of the Projects
 
 - [Smart Food Monitoring: AI for Food Quality Prediction](https://github.com/ShivamKhunger/Smart-Food-Monitoring)
+- [LegalEase: Your legal document AI helper](https://github.com/ShivamKhunger/LegalEase)
 - [Financial Sentiment Analysis using FinBERT](https://github.com/ShivamKhunger/Financial-Sentiment-Analysis-Finbert)
 - [Smart Washroom Occupancy and Cleaniness Monitoring System using ESP32 and ThingSpeak](https://github.com/ShivamKhunger/Smart-Washroom-Occupancy-Quality-Monitoring)
 - [ML based Disease Predicition system, deployed using streamlit](https://github.com/ShivamKhunger/Disease-Prediction)
