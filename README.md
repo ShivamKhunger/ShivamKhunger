@@ -10,7 +10,7 @@
 - 🔭 I’m a Data Scientist skilled in **Machine Learning, Deep Learning, NLP, and Computer Vision**
 - 🌱 Currently exploring **Generative AI and Large Language Models (LLMs)**  
 - 🧠 I love building intelligent systems that make real-world impact  
-- 💬 Ask me about anything related to **ML, NLP, DL, TensorFlow, Word Embeddings, Transformers**  
+- 💬 Ask me about anything related to **ML, NLP, DL, TensorFlow, Word Embeddings, Transformers, Big Data**  
 - 📫 Reach me at: **shivamkhunger7643@gmail.com**  
 - ⚡ Fun fact: **Sarcasm is my second language**
 
